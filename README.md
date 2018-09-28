@@ -1,3 +1,5 @@
+# 验证器 [![Build Status](https://travis-ci.com/haihonglicom/validator.svg?branch=master)](https://travis-ci.com/haihonglicom/validator)
+
 使用例子:
 
 ```
