@@ -1,4 +1,4 @@
-使用例子::
+使用例子:
 
   import {checker, validator} from 'validator'
   const check = checker(
