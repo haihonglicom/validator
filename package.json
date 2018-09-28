@@ -1,0 +1,17 @@
+{
+  "name": "validator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/haihonglicom/validator.git",
+  "author": "haihonglicom <haihongli@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "format": "prettier --write **/*.js",
+    "precommit": "npm run format && npm run test"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "prettier": "^1.14.3"
+  }
+}
