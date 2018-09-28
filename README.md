@@ -1,5 +1,6 @@
-使用例子::
+使用例子:
 
+```
   import {checker, validator} from 'validator'
   const check = checker(
     validator('用户名不能为空', obj => !!obj.userName),
@@ -17,3 +18,4 @@
   }
 
   const errorMessage = check(obj)
+```
